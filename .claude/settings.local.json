@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Get-ChildItem *)",
+      "Bash(New-Item -ItemType Directory -Path \"C:\\\\Users\\\\khkim\\\\OneDrive\\\\Desktop\\\\weather_bot\\\\.github\\\\workflows\" -Force)",
+      "Bash(Out-Null)",
+      "PowerShell(New-Item *)"
+    ]
+  }
+}
